@@ -1,2 +1,0 @@
-# hyphen-domain
-Begin app
